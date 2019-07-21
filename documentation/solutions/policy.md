@@ -1,73 +1,74 @@
 # Open Policy Laws
 
-### Ideal
+## Ideal
 
-### Function
+## Function
 
-### Protections
+## Protections
 
 safety first
 
 unrestricted access to learning for every child
 
-### Stakeholder
+## Stakeholder
 
-### Feature
+## Feature
 
-### Approach
+## Approach
 
-### Style
+## Style
 
-### Scope
+## Scope
 
-### Assumption
+## Assumption
 
-### Known Issue
+## Known Issue
 
-### Known Paradox
+## Known Paradox
 
-### Known Contradiction
+## Known Contradiction
 
-### Known Dilemma
+## Known Dilemma
 
-### Known Factor
+## Known Factor
 
-### Known Insight
+## Known Insight
 
-### Known Dependency
+## Known Dependency
 
-### Unknowns
+## Unknowns
 
-### Ambiguity
+## Ambiguity
 
-### Factor to Address
+## Factor to Address
 
 integrity of ethical virtues
 
-child safety (at learning spaces)
+child safety \(at learning spaces\)
 
-### Quality Attribute
+## Quality Attribute
 
-### Functional Requirement
+## Functional Requirement
 
-### Non-Functional Requirement
+## Non-Functional Requirement
 
-### Challenge
+## Challenge
 
-### Tool
+## Tool
 
-### Methodology
+## Methodology
 
-### Solution
+## Solution
 
-### Expected Result
+## Expected Result
 
-### Actual Result
+## Actual Result
 
-### New Insight
+## New Insight
 
-### New Factor
+## New Factor
 
-### New Factor to Address
+## New Factor to Address
 
-### New Scope
+## New Scope
+

@@ -2,22 +2,19 @@
 
 ## Ideal
 
-provide an evolving learning framework that cultivates curiosity through natural
-learning, 1-1 teaching, self-directed ‘discovery’ curriculum, social role
-forecasting, multi-cultural relationship building / study abroad experiences
+provide an evolving learning framework that cultivates curiosity through natural learning, 1-1 teaching, self-directed ‘discovery’ curriculum, social role forecasting, multi-cultural relationship building / study abroad experiences
 
 ## Function
 
 ## Studies
 
-ecological sciences (behavioral science, economics -> elimination of scarcity,
-resource management, improvement of human condition)
+ecological sciences \(behavioral science, economics -&gt; elimination of scarcity, resource management, improvement of human condition\)
 
 ## Feature
 
 ## Approach
 
-autonomy becomes a reward for mastery (Drive by Dan Pink)
+autonomy becomes a reward for mastery \(Drive by Dan Pink\)
 
 ## Style
 
@@ -49,7 +46,7 @@ Discovery-based Learning
 
 Thinking Fast and Slow
 
-Bloom's Taxonomy (Abstraction, Knowledge Compression)
+Bloom's Taxonomy \(Abstraction, Knowledge Compression\)
 
 Paired Programming
 
@@ -75,7 +72,7 @@ Initiate initiatives, projects, grass roots efforts, off-the-wall ideas
 
 Open-Minded
 
-willingness and desire to learn (innate curiosity)
+willingness and desire to learn \(innate curiosity\)
 
 Healthy behavioral cultivations
 
@@ -87,22 +84,13 @@ Specialize or Broad Understanding
 
 ## Assumption
 
-kids don’t learn to think for themselves.
-[Educating an Original Thinker](https://www.theatlantic.com/education/archive/2016/02/educating-an-original-thinker/462468/)
+kids don’t learn to think for themselves. [Educating an Original Thinker](https://www.theatlantic.com/education/archive/2016/02/educating-an-original-thinker/462468/)
 
-Give kids all the freedom in the world, and they can get caught in choice
-paralysis, lack frameworks for figuring out how to approach a problem, or
-develop plenty of novel ideas but fail to implement them. I think balance comes
-in alternating different pedagogical approaches.
-[Educating an Original Thinker](https://www.theatlantic.com/education/archive/2016/02/educating-an-original-thinker/462468/)
+Give kids all the freedom in the world, and they can get caught in choice paralysis, lack frameworks for figuring out how to approach a problem, or develop plenty of novel ideas but fail to implement them. I think balance comes in alternating different pedagogical approaches. [Educating an Original Thinker](https://www.theatlantic.com/education/archive/2016/02/educating-an-original-thinker/462468/)
 
-There exists a need for a new learning paradigm to which the scope of such
-endeavor is beyond the capabilities of brute-force effort by any one person or
-group.
+There exists a need for a new learning paradigm to which the scope of such endeavor is beyond the capabilities of brute-force effort by any one person or group.
 
-Culturally, we have lost faith in our children's ability to learn on their own
-by providing a system too structured and too focused on how the child should
-learn
+Culturally, we have lost faith in our children's ability to learn on their own by providing a system too structured and too focused on how the child should learn
 
 ## Known Dependency
 
@@ -112,13 +100,11 @@ free access to information source
 
 Do uniforms contribute to any factors?
 
-How do we maximize the utility of tools and technology without the negative
-issues?
+How do we maximize the utility of tools and technology without the negative issues?
 
 do metrics actually work during adolescence?
 
-at which level of understanding should learners be able to design their own
-curriculum?
+at which level of understanding should learners be able to design their own curriculum?
 
 ## Known Issue
 
@@ -134,11 +120,11 @@ Online Certificates
 
 Online Courses
 
-Social Platforms (communication tool, content delivery, platform)
+Social Platforms \(communication tool, content delivery, platform\)
 
 Content Platforms
 
-Integrated Development Envirnments (web service, desktop)
+Integrated Development Envirnments \(web service, desktop\)
 
 ## Known Contradiction
 
@@ -158,12 +144,11 @@ learning can happen anywhere, everywhere, and with anyone
 
 undo the practice of grade level, funneling into university
 
-undo the practice of metric-based testing standard of learning (homework, tests,
-grades etc)
+undo the practice of metric-based testing standard of learning \(homework, tests, grades etc\)
 
 plagiarism
 
-individualism (detachment / geographical determinism)
+individualism \(detachment / geographical determinism\)
 
 duplicative solutions
 
@@ -187,7 +172,7 @@ Whiteboard
 
 Unbiased Search Engine
 
-Internet 4.0 (decentralized)
+Internet 4.0 \(decentralized\)
 
 Virtual Reality
 
@@ -209,7 +194,7 @@ Chart
 
 Graph
 
-Pseudocode | Pseudo Language
+Pseudocode \| Pseudo Language
 
 Literary form
 
@@ -241,8 +226,7 @@ kids can take ownership over their own system of values that guided them
 
 ability to use mental models, abstractions
 
-the latest cutting edge innovations are learned and provided as tools for kids
-to use
+the latest cutting edge innovations are learned and provided as tools for kids to use
 
 sense of purpose
 
@@ -263,3 +247,4 @@ cultivated playful curiosity
 ## New Factor to Address
 
 ## New Scope
+

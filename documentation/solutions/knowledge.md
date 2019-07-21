@@ -2,8 +2,7 @@
 
 ## Ideal
 
-use a mix of green energy to completely fund the current and future storage /
-processing of public data?
+use a mix of green energy to completely fund the current and future storage / processing of public data?
 
 open access to information directly from source
 
@@ -21,14 +20,11 @@ multi-disciplinary information
 
 ## Scope
 
-An intuitive solution would be to either refer back to a centralized
-knowledge-based system (similar to wikipedia) or adopt a record-based
-distributed network (similar to blockchain) for general public knowledge.
+An intuitive solution would be to either refer back to a centralized knowledge-based system \(similar to wikipedia\) or adopt a record-based distributed network \(similar to blockchain\) for general public knowledge.
 
 ## Assumption
 
-running energy costs would be reduced to nothing and the remaining costs would
-be relating to physical hardware, maintanence, and land property.
+running energy costs would be reduced to nothing and the remaining costs would be relating to physical hardware, maintanence, and land property.
 
 ## Known Issue
 
@@ -54,7 +50,7 @@ building a new network infrastructure would ensue assuming costs.
 
 ## Methodology
 
-possible technology implementation: microservices -> AWS, GCS, Netflix
+possible technology implementation: microservices -&gt; AWS, GCS, Netflix
 
 ## Solution
 
@@ -69,3 +65,4 @@ possible technology implementation: microservices -> AWS, GCS, Netflix
 ## New Factor to Address
 
 ## New Scope
+

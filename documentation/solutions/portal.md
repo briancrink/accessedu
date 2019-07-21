@@ -18,17 +18,15 @@ community board
 
 personal tasks / to do / modeling / abstraction / notes board
 
-discovery (find new content)
+discovery \(find new content\)
 
-news (trending)
+news \(trending\)
 
-board where one can ask experience individuals questions to seek greater
-understanding
+board where one can ask experience individuals questions to seek greater understanding
 
-tools / services (app store) find the necessary resources for whatever endeavor
+tools / services \(app store\) find the necessary resources for whatever endeavor
 
-subject / topic (comprehensive board full of all relevant idioms, concepts,
-resources, lessons)
+subject / topic \(comprehensive board full of all relevant idioms, concepts, resources, lessons\)
 
 ## Assumption
 
@@ -77,3 +75,4 @@ resources, lessons)
 ## New Factor to Address
 
 ## New Scope
+

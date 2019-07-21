@@ -36,13 +36,11 @@ Enrich reasonable discussion across generations, disciplines, and cultures
 
 ## Ambiguity
 
-If the curricula of these **Meetup** style groups is ongoing, how are
-new-combers dealt with or the passerby's, drifters, casual attendees?
+If the curricula of these **Meetup** style groups is ongoing, how are new-combers dealt with or the passerby's, drifters, casual attendees?
 
 Should we look to the Religious churches for insight?
 
-How does the Internet provide useful or uselessness within the context of
-retaining agenda?
+How does the Internet provide useful or uselessness within the context of retaining agenda?
 
 Maintaining progress through dynamic asynchronous pods of learning groups
 
@@ -73,3 +71,4 @@ Maintaining progress through dynamic asynchronous pods of learning groups
 ## New Factor to Address
 
 ## New Scope
+

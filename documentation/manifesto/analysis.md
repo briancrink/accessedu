@@ -4,21 +4,21 @@
 
 ### Cost
 
-**Add:** statistics (current costs, historical costs, student loan debt, where
-is the money going)
+<!-- **Add:** statistics (current costs, historical costs, student loan debt, where
+is the money going) -->
 
 ### Opportunity
 
-**Add:** statistics (# of institutions, public v. private, # of student
-investors)
+<!-- **Add:** statistics (# of institutions, public v. private, # of student
+investors) -->
 
 ### Diveristy
 
-**Add:** statistics (demographics, level)
+<!-- **Add:** statistics (demographics, level) -->
 
 ### Policy
 
-**Add:** statistics (list all edu policies)
+<!-- **Add:** statistics (list all edu policies) -->
 
 ## Discoveries
 
@@ -401,7 +401,7 @@ a half-century ago. How is that possible? Can that be sustainable?
 > specialties, their particular interests. They’ll emerge narrow-minded."
 > [Why We Need an Open Curriculum](https://www.chronicle.com/blogs/conversation/2014/07/21/why-we-need-an-open-curriculum/)
 
-### Bullshit Work
+### Meaningless Work
 
 > "Over a period of one or two hundred years the contributions of professional
 > schools to their respective activities will probably be found to lie, not so

@@ -2,9 +2,7 @@
 
 **The American Education System: A 2019 Case Study**
 
-**Abstract:** The study evaluates the quality of learning in the current state
-of the American Education System. Findings reached issue a reevaluation of the
-learn-to-work education paradigm and a modern approach to global education.
+**Abstract:** The study evaluates the quality of learning in the current state of the American Education System. Findings reached issue a reevaluation of the learn-to-work education paradigm and a modern approach to global education.
 
 ## Questions
 
@@ -32,8 +30,7 @@ Is the pursuit of post-education justified?
 
 What is the value retained in a post-graduate degree?
 
-Why have we opted to retain the value of a degree to measure qualification
-despite having little to no evidence to substantiate qualification?
+Why have we opted to retain the value of a degree to measure qualification despite having little to no evidence to substantiate qualification?
 
 What factors differ between the education of yesterday, today, and tomorrow?
 
@@ -44,3 +41,4 @@ What will the future of learning look like?
 What do today's factors necessitate for?
 
 What qualities would exist in a modern education paradigm?
+

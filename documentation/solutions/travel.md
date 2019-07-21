@@ -40,7 +40,7 @@ push learning beyond the borders
 
 no learner feels displaced and home-sick
 
-Meet diverse groups of people -> become cultured
+Meet diverse groups of people -&gt; become cultured
 
 ## Actual Result
 
@@ -51,3 +51,4 @@ Meet diverse groups of people -> become cultured
 ## New Factor to Address
 
 ## New Scope
+

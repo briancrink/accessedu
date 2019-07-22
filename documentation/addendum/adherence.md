@@ -54,15 +54,26 @@ To me, learning meant quest and untold journey.
 
 ## Interesting Problem
 
+I understood the unfortunate dichotomy in learning, where the education system
+diverged, and how to truly solve the education problem. No duct tape necessary.
+
 I thought over education reform throughout my time in university — how to divert
 generations of curious learners away from the diploma delusion.
+
+My initial interest began as a software engineering project during my time in
+university to improve the usefulness of college transcript data by seeking more
+rich student data in measuring qualitative soft skills in students.
+
+Quickly I realized the unethical path the project was heading down, as measuring
+student cognitive ability among other soft skills would be gamed in the hands of
+employers and universities.
+
+The finding was clear; quantifying human ability to determine opportunty is
+unethical and could lead to further inequality.
 
 Having left, I simply could not shake the inner thoughts that someone is going
 to disrupt the American Education System in the next few years for better or for
 worse.
-
-I understood the unfortunate dichotomy in learning, where the education system
-diverged, and how to truly solve the education problem. No duct tape necessary.
 
 ## Insights Learned
 

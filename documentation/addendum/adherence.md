@@ -35,7 +35,7 @@ experience, and intuition.
 
 I have thought over the education reform throughout my time in university — how
 to divert generations of curious learners away from the diploma delusion derived
-from the leaders in business in the late 1880's.
+from the business leaders of the late 1880's.
 
 I simply can't shake the inner thoughts that someone is going to disrupt the
 American Education System in the next few years for better or for worse.

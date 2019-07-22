@@ -39,7 +39,7 @@ research, formal logic, mental models, abstraction, reasoning with contradictory
 schools of thought, personal experience, and intuition.
 
 All the while, I could not help but notice common problems I had felt in formal
-education were remained unnoticed by my former peers.
+education remained unnoticed by my former peers.
 
 There existed a strange dichotomy in the admiration I had for learning derived
 from self-directed learning that was contrary to my former peers.

@@ -14,8 +14,8 @@ Early in my adolescence, I noticed an apparent void and neglect of curiosity and
 passion in schools - something I had grown up with living in a family of
 engineers.
 
-Both of which I see as undoubtably central for problem solvers and the greater
-continuation of human progress.
+Both curiosity and passion I see undoubtably central for problem solving and the
+greater continuation of human progress.
 
 Leaving formal education during university, I diverged in my studies toward a
 playful philosophy of acquring massive tabs of pinned readings.
@@ -78,9 +78,10 @@ necessary.
 4. Deep thinking necessitates boundless time in solitude.
 
 5. The correlative relevance of general intelligence has been found to be
-   inclusive, therefore deploying the paradigm of common core, standardized
-   testing, grading on the curve, gamifying learning, and artifical competition
-   is unhealthy and deters learning.
+   inconclusive among the scholars and intellectual groups, therefore deploying
+   the paradigm of common core, standardized testing, grading on the curve,
+   gamifying learning, and artifical competition is unhealthy and deters
+   learning.
 
 6. The learn-to-work paradigm assumes students graduate with a degree as a
    market standard for employers to measure an acceptable level of competency so

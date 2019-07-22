@@ -12,7 +12,7 @@ standardized tests, and the business model of the 1880's.
 
 Early in my adolescence, I noticed an apparent void and neglect of curiosity and
 passion in schools - something I had grown up with living in a family of
-engineers.
+engineers, hackers, builders.
 
 Both curiosity and passion I see undoubtably central for problem solving and the
 greater continuation of human progress.
@@ -39,8 +39,8 @@ Continuing my growth as a programmer, I needed a new set of thinking strategies
 derived in formal logic necessary for more effective problem-solving.
 
 Through self-directed learning, I learned to derive insight from empirical
-research, formal logic, mental models, abstraction, reasoning with contradictory
-schools of thought, personal experience, and intuition.
+research, formal logic, mental models, abstraction, and reasoning from
+contradictory schools of thought.
 
 All the while, I could not help but notice common problems I felt hindering my
 education in formal education remained unnoticed by my former peers.
@@ -107,5 +107,5 @@ diverged, and how to truly solve the education problem. No duct tape necessary.
 
 ## Opportunity
 
-Open AccessEdu is an initiative to bring those same opportunities to the land of
-opportunity and greater world of learners.
+Open AccessEdu is an initiative to bring those true education back to the land
+of opportunity and greater world of learners.

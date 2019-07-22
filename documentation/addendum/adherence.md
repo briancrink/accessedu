@@ -88,29 +88,29 @@ worse.
 4. Deep thinking necessitates boundless time in solitude.
 
 5. The correlative relevance of general intelligence has been found to be
-   inconclusive among the scholars and intellectual groups, therefore deploying
-   the paradigm of common core, standardized testing, grading on the curve,
-   gamifying learning, and artifical competition is unhealthy and deters
-   learning.
+   inconclusive among the scholars and intellectual groups.
 
-6. The learn-to-work paradigm assumes students graduate with a degree as a
+6. deploying common core, standardized testing, grading on the curve, gamified
+   learning, and artifical competition confines and conditions learning.
+
+7. The learn-to-work paradigm assumes students graduate with a degree as a
    market standard for employers to measure an acceptable level of competency so
    hiring qualified candidates becomes optimally predictable.
 
-7. A degree tells little of one's learning ability, but the graduate is
+8. A degree tells little of one's learning ability, but the graduate is
    competent enough to work as an employee of a corporation.
 
-8. Unschooling is learning for the sake of curiosity and a desire for insight.
+9. Unschooling is learning for the sake of curiosity and a desire for insight.
 
-9. Unschooling is not home schooling; merely opposite to regulated education.
+10. Unschooling is not home schooling; merely opposite to regulated education.
 
-10. Unschooling is a universal method to become truly educated.
+11. Unschooling is a universal method to become truly educated.
 
-11. Unschooling opens up opportunies in ways unseen in the learn-to-work
+12. Unschooling opens up opportunies in ways unseen in the learn-to-work
     education paradigm.
 
-12. Learning insights wisdom that opportunity is seen and created, not earned or
-    by luck.
+13. Learning without intention insights wisdom that opportunity is seen and
+    created, not earned or by luck.
 
 ## Opportunity
 

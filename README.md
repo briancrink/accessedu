@@ -1,13 +1,10 @@
 # Open AccessEdu
 
-**An Education System** Designed in Transparency **by Everyone**, **for
-Everyone**.
+**An Education System** Designed in Transparency **by Everyone**, **for Everyone**.
 
-We're **a self-organizing open network of high-trust, diverse people** spanning
-nearly every continent.
+We're **a self-organizing open network of high-trust, diverse people** spanning nearly every continent.
 
-Our purpose is to **reimagine** and **develop** a framework of
-**non-localized**, **modular** solutions for **global interconnected** learning.
+Our purpose is to **reimagine** and **develop** a framework of **non-localized**, **modular** solutions for **global interconnected** learning.
 
 1. [Manifesto](documentation/manifesto/manifesto.md)
    1. [History of Education](documentation/manifesto/history.md)
@@ -61,16 +58,11 @@ Our purpose is to **reimagine** and **develop** a framework of
 
 ## Note
 
-This is **dynamic documentation** expanding through the progression of
-collective efforts.
+This is **dynamic documentation** expanding through the progression of collective efforts.
 
-Since development is continuous,
-[**Contributors are free to amend information**](https://github.com/briancrink/accessedu/tree/315241832a0b93dddbc3b8af13b6311d27e222f8/root.md)
-parallel to
-[**development progress**](https://github.com/briancrink/accessedu/tree/315241832a0b93dddbc3b8af13b6311d27e222f8/root.md).
+Since development is continuous, [**Contributors are free to amend information**](https://github.com/briancrink/accessedu/tree/315241832a0b93dddbc3b8af13b6311d27e222f8/root.md) parallel to [**development progress**](https://github.com/briancrink/accessedu/tree/315241832a0b93dddbc3b8af13b6311d27e222f8/root.md).
 
-Operating as historical record, **versioning** **group effort promotes
-transparency** between us internally and the outside world.
+Operating as historical record, **versioning** **group effort promotes transparency** between us internally and the outside world.
 
-Previous versions can be found on
-[**Github**](https://github.com/briancrink/accessedu/releases).
+Previous versions can be found on [**Github**](https://github.com/briancrink/accessedu/releases).
+

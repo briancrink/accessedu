@@ -12,10 +12,10 @@
 ## Deter
 
 1. Student Loan Debt Crisis
-2. Bullshit Work
+2. Meaningless Work
 3. Time & Cost Pursuing Education
 
-   \(K-12 -&gt; Associates -&gt; Bachelors -&gt; Masters -&gt; Doctorate\)
+   (K-12 -> Associates -> Bachelors -> Masters -> Doctorate)
 
 ## Adopt
 
@@ -38,4 +38,3 @@
    2. Progress Through Human Ingenuity
 3. Global Optimism
    1. Restoration of The Human Spirit
-

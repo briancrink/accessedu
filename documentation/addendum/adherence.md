@@ -104,8 +104,7 @@ worse.
 
 9. Unschooling is learning for the sake of curiosity and a desire for insight.
 
-10. Unschooling is not home schooling; merely opposite to regulating education
-    in efforts to acquire a true education.
+10. Unschooling is not home schooling; merely opposite to regulated education.
 
 11. Unschooling opens up opportunies in ways unseen in the learn-to-work
     education paradigm.

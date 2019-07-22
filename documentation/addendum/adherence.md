@@ -97,14 +97,14 @@ worse.
    market standard for employers to measure an acceptable level of competency so
    hiring qualified candidates becomes optimally predictable.
 
-7. The piece of paper tells nothing of one's learning ability, only the graduate
-   is competent enough to work as an employee of a corporation.
+7. A degree tells little of one's learning ability, but the graduate is
+   competent enough to work as an employee of a corporation.
 
-8. Unschooling is currently the only universal method to become truly educated.
+8. Unschooling is learning for the sake of curiosity and a desire for insight.
 
-9. Unschooling is learning for the sake of curiosity and a desire for insight.
+9. Unschooling is not home schooling; merely opposite to regulated education.
 
-10. Unschooling is not home schooling; merely opposite to regulated education.
+10. Unschooling is a universal method to become truly educated.
 
 11. Unschooling opens up opportunies in ways unseen in the learn-to-work
     education paradigm.

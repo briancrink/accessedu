@@ -31,8 +31,8 @@ I was enthused to finally learn with no objective or syllabus.
 Podcasts, audiobooks, research journals, textbooks, medium articles, YouTube
 videos, I consumed it all.
 
-The more sessions of deep thinking, the more times I felt those beautiful
-'woooah' moments.
+The more sessions of deep thinking, the more those beautiful 'woooah' moments
+occurred.
 
 Continuing my growth as a programmer, I needed a new set of thinking strategies
 derived in formal logic necessary for more effective problem-solving.

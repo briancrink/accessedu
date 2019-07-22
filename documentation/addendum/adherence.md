@@ -65,7 +65,7 @@ university to improve the usefulness of college transcript data by seeking more
 rich student data in measuring qualitative soft skills in students.
 
 Quickly I realized the unethical path the project was heading down, as measuring
-student cognitive ability among other soft skills would be gamed in the hands of
+student cognitive ability among other soft skills could be gamed in the hands of
 employers and universities.
 
 The finding was clear; quantifying human ability to determine opportunty is

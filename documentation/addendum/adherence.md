@@ -61,9 +61,8 @@ Having left, I simply could not shake the inner thoughts that someone is going
 to disrupt the American Education System in the next few years for better or for
 worse.
 
-I knew too much about the unfortunate dichotomy in learning, where the education
-system diverged, and how to truly solve the education problem. No duct tape
-necessary.
+I understood the unfortunate dichotomy in learning, where the education system
+diverged, and how to truly solve the education problem. No duct tape necessary.
 
 ## Insights Learned
 

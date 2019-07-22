@@ -10,10 +10,11 @@ A system tightly bound to common core curricula, aging inneffective policies,
 competitive game theory tactics, general intelligence theory, grades and
 standardized tests, and the business model of the 1880's.
 
-Early in my adolescence, I noticed an apparent neglect and void of curiosity and
+Early in my adolescence, I noticed an apparent void and neglect of curiosity and
 passion in schools - something I had grown up with living in a family of
-engineers; curiosity and passion - characteristics common among the edge-cases
-amassed throughout our education system and undoubtably central for the
+engineers.
+
+Both of which I see as undoubtably central for problem solvers and the greater
 continuation of human progress.
 
 After taking time away from formal education, I diverged in my studies toward a

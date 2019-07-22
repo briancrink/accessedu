@@ -2,33 +2,51 @@
 
 ## The Deep Thinker: One of Many 'No Child Left Behind' Edge Cases
 
-I comment on education reform as an edge-case that propagates in numerous variants of the current paradigm that in total, collectively defines the failing state of Education.
+I comment on education reform as an edge-case that propagates in numerous
+variants of the current paradigm that in total, collectively defines the failing
+state of Education.
 
-A system tightly bound to common core curricula, aging inneffective policies, competitive game theory tactics, general intelligence theory, grades and standardized tests, and the business model of the 1880's.
+A system tightly bound to common core curricula, aging inneffective policies,
+competitive game theory tactics, general intelligence theory, grades and
+standardized tests, and the business model of the 1880's.
 
-Early in my adolescence, I noticed an apparent void and neglect of curiosity and passion in schools - something I had grown up with living in a family of engineers.
+Early in my adolescence, I noticed an apparent void and neglect of curiosity and
+passion in schools - something I had grown up with living in a family of
+engineers.
 
-Both of which I see as undoubtably central for problem solvers and the greater continuation of human progress.
+Both of which I see as undoubtably central for problem solvers and the greater
+continuation of human progress.
 
-Leaving formal education during university, I diverged in my studies toward a playful philosophy of acquring massive tabs of pinned readings.
+Leaving formal education during university, I diverged in my studies toward a
+playful philosophy of acquring massive tabs of pinned readings.
 
-Contrary to regurgitation learning deployed in my school years, I was afforded the luxury of boundless time insighted for deeper levels of cognitive thinking embodied in rich, complex thoughts.
+Contrary to regurgitation learning deployed in my school years, I was afforded
+the luxury of boundless time insighted for deeper levels of cognitive thinking
+embodied in rich, complex thoughts.
 
-Soon there after, my unmeasured self-learning evolved into a natural appreciation and unabounded love to read, ask questions, and try everything.
+Soon there after, my unmeasured self-learning evolved into a natural
+appreciation and unabounded love to read, ask questions, and try everything.
 
 I was enthused to finally learn with no objective or syllabus.
 
-Podcasts, audiobooks, research journals, textbooks, medium articles, YouTube videos, I consumed it all.
+Podcasts, audiobooks, research journals, textbooks, medium articles, YouTube
+videos, I consumed it all.
 
-The more sessions of deep thinking, the more those beautiful 'woooah' moments occurred.
+The more sessions of deep thinking, the more those beautiful 'woooah' moments
+occurred.
 
-Continuing my growth as a programmer, I needed a new set of thinking strategies derived in formal logic necessary for more effective problem-solving.
+Continuing my growth as a programmer, I needed a new set of thinking strategies
+derived in formal logic necessary for more effective problem-solving.
 
-Through self-directed learning, I learned to derive insight from empirical research, formal logic, mental models, abstraction, reasoning with contradictory schools of thought, personal experience, and intuition.
+Through self-directed learning, I learned to derive insight from empirical
+research, formal logic, mental models, abstraction, reasoning with contradictory
+schools of thought, personal experience, and intuition.
 
-All the while, I could not help but notice common problems I felt hindering my education in formal education remained unnoticed by my former peers.
+All the while, I could not help but notice common problems I felt hindering my
+education in formal education remained unnoticed by my former peers.
 
-There existed a strange dichotomy in the admiration I had for learning that was contrary to my former peers.
+There existed a strange dichotomy in the admiration I had for learning that was
+contrary to my former peers.
 
 To them, learning meant homework and studying.
 
@@ -36,13 +54,18 @@ To me, learning meant quest and untold journey.
 
 ## Interesting Problem
 
-I thought over education reform throughout my time in university — how to divert generations of curious learners away from the diploma delusion.
+I thought over education reform throughout my time in university — how to divert
+generations of curious learners away from the diploma delusion.
 
-Having left, I simply could not shake the inner thoughts that someone is going to disrupt the American Education System in the next few years for better or for worse.
+Having left, I simply could not shake the inner thoughts that someone is going
+to disrupt the American Education System in the next few years for better or for
+worse.
 
-I knew too much about the unfortunate dichotomy in learning, where the education system diverged, and how to truly solve the education problem. No duct tape necessary.
+I knew too much about the unfortunate dichotomy in learning, where the education
+system diverged, and how to truly solve the education problem. No duct tape
+necessary.
 
-## Insights Learned From Unschooling
+## Insights Learned
 
 1. Curiosity is lost when learning is constrained to a beginning, middle, and
    end.
@@ -84,5 +107,5 @@ I knew too much about the unfortunate dichotomy in learning, where the education
 
 ## Opportunity
 
-Open AccessEdu is an initiative to bring those same opportunities to the land of opportunity and greater world of learners.
-
+Open AccessEdu is an initiative to bring those same opportunities to the land of
+opportunity and greater world of learners.

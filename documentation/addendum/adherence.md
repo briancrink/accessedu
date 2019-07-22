@@ -19,14 +19,17 @@ continuation of human progress.
 After taking time away from formal education, I diverged in my studies toward a
 playful philosophy of acquring massive tabs of pinned readings.
 
-Soon there after, my unmeasured self-learning evolved into a natural
-appreciation and unabounded love to read, ask questions, and try everything.
-
-I even began reading research journals and textbooks for fun.
-
 Contrary to regurgitation learning deployed in my school years, I was afforded
 the luxury of boundless time insighted for deeper levels of cognitive thinking
 embodied in rich, complex thoughts.
+
+Soon there after, my unmeasured self-learning evolved into a natural
+appreciation and unabounded love to read, ask questions, and try everything.
+
+I was enthused to finally learn with no objective or syllabus.
+
+Podcasts, audiobooks, research journals, textbooks, medium articles, YouTube
+videos, I consumed it all.
 
 The more sessions of deep thinking, the more times I felt those beautiful
 'woooah' moments.

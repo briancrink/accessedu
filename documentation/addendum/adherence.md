@@ -118,5 +118,5 @@ worse.
 
 ## Opportunity
 
-Open AccessEdu is an initiative to bring those true education back to the land
-of opportunity and greater world of learners.
+Open AccessEdu is an initiative to bring true education back to the land of
+opportunity and greater world of learners.

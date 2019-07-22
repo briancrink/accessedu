@@ -41,8 +41,8 @@ schools of thought, personal experience, and intuition.
 All the while, I could not help but notice common problems I felt hindering my
 education in formal education remained unnoticed by my former peers.
 
-There existed a strange dichotomy in the admiration I had for learning derived
-from self-directed learning that was contrary to my former peers.
+There existed a strange dichotomy in the admiration I had for learning that was
+contrary to my former peers.
 
 To them, learning meant homework and studying.
 

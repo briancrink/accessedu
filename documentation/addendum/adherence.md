@@ -113,9 +113,6 @@ worse.
 12. Learning insights wisdom that opportunity is seen and created, not earned or
     by luck.
 
-13. Thus, the most successful entrepreneurs historically dropped out of the
-    learning-to-work paradigm due to seeing opportunity others had not.
-
 ## Opportunity
 
 Open AccessEdu is an initiative to bring true education back to the land of

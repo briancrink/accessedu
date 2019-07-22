@@ -17,7 +17,7 @@ engineers.
 Both of which I see as undoubtably central for problem solvers and the greater
 continuation of human progress.
 
-After taking time away from formal education, I diverged in my studies toward a
+Leaving formal education during university, I diverged in my studies toward a
 playful philosophy of acquring massive tabs of pinned readings.
 
 Contrary to regurgitation learning deployed in my school years, I was afforded

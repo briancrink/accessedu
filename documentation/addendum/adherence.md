@@ -61,9 +61,9 @@ My initial interest began as a software engineering project during my time in
 university to improve the usefulness of college transcript data by seeking more
 rich student data in measuring qualitative soft skills in students.
 
-Soon I realized the rocky path the project was heading down; measuring student
-cognitive ability among other soft skills could be gamed in the hands of
-employers and universities.
+Soon I realized the conluding trajectory the project was heading toward;
+measuring student cognitive ability among other soft skills could be gamed in
+the hands of employers and universities.
 
 The finding was clear; quantifying general human intelligence using existing
 biased metrics to determine opportunty is unethical and could lead to further

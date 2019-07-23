@@ -56,7 +56,7 @@ Our purpose is to **reimagine** and **develop** a framework of
       8. [Web 4.0](documentation/solutions/web4.md)
       9. [Expert Knowledge System](documentation/solutions/knowledge.md)
       10. [Field Team Role Placement Algorithm](documentation/solutions/algorithm.md)
-      11. [Adolescent Seasonal Travel](documentation/solutions/travel.md)
+      11. [Location Independent Learning](documentation/solutions/location.md)
 
 3. [Open Contribution](documentation/contribution/contribution.md)
 

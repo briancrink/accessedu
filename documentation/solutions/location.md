@@ -1,4 +1,4 @@
-# Adolescent Seasonal Travel
+# Location Independent Learning
 
 ## Ideal
 
@@ -51,4 +51,3 @@ Meet diverse groups of people -&gt; become cultured
 ## New Factor to Address
 
 ## New Scope
-

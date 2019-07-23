@@ -43,7 +43,7 @@
     - [Web 4.0](documentation/solutions/web4.md)
     - [Expert Knowledge System](documentation/solutions/knowledge.md)
     - [Field Team Role Placement Algorithm](documentation/solutions/algorithm.md)
-    - [Adolescent Seasonal Travel](documentation/solutions/travel.md)
+    - [Location Independent Learning](documentation/solutions/location.md)
   - [Contribution](documentation/contribution/README.md)
     - [Open Contribution](documentation/contribution/contribution.md)
     - [Maintainer](documentation/contribution/maintainer.md)

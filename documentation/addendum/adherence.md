@@ -71,8 +71,7 @@ inequality.
 
 Having understood the dichotomy in learning, where the education system
 diverged, and how to truly solve the education problem, I could not shake the
-thoughts that the American Education System is prime for fundamental change in
-the next few years.
+thoughts that the American Education System is prime for fundamental change.
 
 ## Insights Learned
 

@@ -61,20 +61,18 @@ My initial interest began as a software engineering project during my time in
 university to improve the usefulness of college transcript data by seeking more
 rich student data in measuring qualitative soft skills in students.
 
-Quickly I realized the unethical path the project was heading down, as measuring
-student cognitive ability among other soft skills could be gamed in the hands of
+Soon I realized the rocky path the project was heading down; measuring student
+cognitive ability among other soft skills could be gamed in the hands of
 employers and universities.
 
 The finding was clear; quantifying general human intelligence using existing
-metrics to determine opportunty is unethical and could lead to further
+biased metrics to determine opportunty is unethical and could lead to further
 inequality.
 
-However, I still could not shake the inner thoughts that someone is going to
-disrupt the American Education System in the next few years for better or for
-worse.
-
-I understood the dichotomy in learning, where the education system diverged, and
-how to truly solve the education problem.
+Having understood the dichotomy in learning, where the education system
+diverged, and how to truly solve the education problem, I could not shake the
+thoughts that the American Education System is prime for fundamental change in
+the next few years.
 
 ## Insights Learned
 

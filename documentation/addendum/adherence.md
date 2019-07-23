@@ -14,11 +14,11 @@ Early in my adolescence, I noticed an apparent void and neglect of curiosity and
 passion in schools - something I had grown up with living in a family of
 engineers, hackers, builders.
 
-Both curiosity and passion I see undoubtably central for problem solving and the
-greater continuation of human progress.
+Both curiosity and passion valued as undoubtably central for problem solving and
+the greater continuation of human progress.
 
-Leaving formal education during university, I diverged in my studies toward a
-playful philosophy of acquring massive tabs of pinned readings.
+Leaving formal education, I diverged in my studies toward a playful philosophy
+of acquring massive tabs of pinned readings.
 
 Contrary to regurgitation learning deployed in my school years, I was afforded
 the luxury of boundless time insighted for deeper levels of cognitive thinking
@@ -48,17 +48,14 @@ education in formal education remained unnoticed by my former peers.
 There existed a strange dichotomy in the admiration I had for learning that was
 contrary to my former peers.
 
-To them, learning meant homework and studying.
+To students, learning meant homework and studying.
 
-To me, learning meant quest and untold journey.
+To the curious, learning meant quest and untold journey.
 
 ## Interesting Problem
 
-I understood the unfortunate dichotomy in learning, where the education system
-diverged, and how to truly solve the education problem. No duct tape necessary.
-
 I thought over education reform throughout my time in university — how to divert
-generations of curious learners away from the diploma delusion.
+curious learners away from the diploma delusion.
 
 My initial interest began as a software engineering project during my time in
 university to improve the usefulness of college transcript data by seeking more
@@ -68,12 +65,16 @@ Quickly I realized the unethical path the project was heading down, as measuring
 student cognitive ability among other soft skills could be gamed in the hands of
 employers and universities.
 
-The finding was clear; quantifying human ability to determine opportunty is
-unethical and could lead to further inequality.
+The finding was clear; quantifying general human intelligence using existing
+metrics to determine opportunty is unethical and could lead to further
+inequality.
 
-Having left, I simply could not shake the inner thoughts that someone is going
-to disrupt the American Education System in the next few years for better or for
+However, I still could not shake the inner thoughts that someone is going to
+disrupt the American Education System in the next few years for better or for
 worse.
+
+I understood the dichotomy in learning, where the education system diverged, and
+how to truly solve the education problem.
 
 ## Insights Learned
 

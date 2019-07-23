@@ -95,8 +95,8 @@ thoughts that the American Education System is prime for fundamental change.
    market standard for employers to measure an acceptable level of competency so
    hiring qualified candidates becomes optimally predictable.
 
-8. A degree tells little of one's learning ability, but the graduate is
-   competent enough to work as an employee of a corporation.
+8. A degree conveys a graduate is competent enough to work as an employee of a
+   corporation, but tells little of one's learning.
 
 9. Unschooling is learning for the sake of curiosity and a desire for insight.
 

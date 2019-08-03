@@ -21,8 +21,8 @@ Leaving formal education, I diverged in my studies toward a playful philosophy
 of acquring massive tabs of pinned readings.
 
 Contrary to regurgitation learning deployed in my school years, I was afforded
-the luxury of boundless time insighted for deeper levels of cognitive thinking
-embodied in rich, complex thoughts.
+boundless time insighted for deeper levels of cognitive thinking embodied in
+rich, complex thoughts.
 
 My unmeasured self-learning evolved into a natural appreciation and love to
 read, ask questions, and try everything.

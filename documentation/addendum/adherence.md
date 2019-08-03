@@ -24,15 +24,15 @@ Contrary to regurgitation learning deployed in my school years, I was afforded
 the luxury of boundless time insighted for deeper levels of cognitive thinking
 embodied in rich, complex thoughts.
 
-Soon there after, my unmeasured self-learning evolved into a natural
-appreciation and unabounded love to read, ask questions, and try everything.
+My unmeasured self-learning evolved into a natural appreciation and love to
+read, ask questions, and try everything.
 
 I was enthused to finally learn with no objective or syllabus.
 
 Podcasts, audiobooks, research journals, textbooks, medium articles, YouTube
 videos, I consumed it all.
 
-The more sessions of deep thinking, the more those natural beautiful 'woooah'
+The more sessions of deep thinking, the more those natural beautiful 'woah'
 moments occurred.
 
 Continuing my growth as a programmer, I needed a new set of thinking strategies

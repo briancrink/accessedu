@@ -32,21 +32,17 @@ I was enthused to finally learn with no objective or syllabus.
 Podcasts, audiobooks, research journals, textbooks, medium articles, YouTube
 videos, I consumed it all.
 
-The more sessions of deep thinking, the more those beautiful 'woooah' moments
-occurred.
+The more sessions of deep thinking, the more those natural beautiful 'woooah'
+moments occurred.
 
 Continuing my growth as a programmer, I needed a new set of thinking strategies
 derived in formal logic necessary for more effective problem-solving.
 
 Through self-directed learning, I learned to derive insight from empirical
-research, formal logic, mental models, abstraction, and reasoning from
+research, formal logic, mental models, abstraction, and reason with
 contradictory schools of thought.
 
-All the while, I could not help but notice common problems I felt hindering my
-education in formal education remained unnoticed by my former peers.
-
-There existed a strange dichotomy in the admiration I had for learning that was
-contrary to my former peers.
+All the while, I noticed there existed a strange dichotomy among learners.
 
 To students, learning meant homework and studying.
 
@@ -61,17 +57,17 @@ My initial interest began as a software engineering project during my time in
 university to improve the usefulness of college transcript data by seeking more
 rich student data in measuring qualitative soft skills in students.
 
-Soon I realized the conluding trajectory the project was heading toward;
-measuring student cognitive ability among other soft skills could be gamed in
-the hands of employers and universities.
+I soon realized the trajectory the project was heading toward and the finding
+was clear; quantifying general human intelligence using existing biased metrics
+to determine opportunty is unethical and could lead to further inequality.
 
-The finding was clear; quantifying general human intelligence using existing
-biased metrics to determine opportunty is unethical and could lead to further
-inequality.
+Even more, measuring student cognitive ability among other soft skills could be
+gamed in the hands of employers and universities.
 
-Having understood the dichotomy in learning, where the education system
-diverged, and how to truly solve the education problem, I could not shake the
-thoughts that the American Education System is prime for fundamental change.
+Having understood the learning dichotomy, why the utility of the education
+system diverged, and recent socioeconomic changes that constitute solutions to
+today's education problems, I deduced the American Education System is prime for
+fundamental change.
 
 ## Insights Learned
 

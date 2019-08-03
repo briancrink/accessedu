@@ -46,8 +46,8 @@ All the while, I noticed there existed a strange dichotomy among learners.
 
 To students, learning meant a syllabus, homework, studying, and testing.
 
-To the curious, learning meant quest and untold journey, no objective, and in
-essence learning for the sake of learning.
+To the curious, learning meant quest through untold journey and learning for the
+sake of learning.
 
 ## Interesting Problem
 
